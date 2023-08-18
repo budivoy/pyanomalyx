@@ -1,0 +1,18 @@
+{
+  "template": "https://github.com/woltapp/wolt-python-package-cookiecutter",
+  "commit": "4eecc9c4d27e3c9321438bc1fdaf717bec5eadf6",
+  "checkout": null,
+  "context": {
+    "cookiecutter": {
+      "author_name": "Aleksandr Popov",
+      "author_email": "Your email address (eq. you@example.com)",
+      "github_username": "budivoy",
+      "project_name": "pyanomalyx",
+      "project_slug": "pyanomalyx",
+      "package_name": "pyanomalyx",
+      "project_short_description": "Anomaly detection",
+      "_template": "https://github.com/woltapp/wolt-python-package-cookiecutter"
+    }
+  },
+  "directory": null
+}
